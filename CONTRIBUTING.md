@@ -1,0 +1,1 @@
+Your contributions here are most welcome if they are constructive and made in a friendly manner. Contributing here means that you accept the [licensing terms](https://github.com/FAIR-EG/consultation/blob/master/LICENSE.md).
