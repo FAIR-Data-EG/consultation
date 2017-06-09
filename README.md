@@ -18,11 +18,11 @@ Further information is available on the [FAIR data expert group webpage](http://
 
 # What to contribute?
 We invite contributions on each proposed section of the report as follows:
-* [Concepts - why FAIR?](https://github.com/FAIR-Data-EG/consultation/blob/master/README.md#concepts---why-fair)
-* Research data culture 
-* Making FAIR data real 
-* Measuring change
-* Facilitating change
+* [Concepts - why FAIR?](https://github.com/FAIR-Data-EG/consultation#concepts---why-fair)
+* [Research data culture](https://github.com/FAIR-Data-EG/consultation#research-data-culture)
+* [Making FAIR data real](https://github.com/FAIR-Data-EG/consultation#making-fair-data-real) 
+* [Measuring change](https://github.com/FAIR-Data-EG/consultation#measuring-change)
+* [Facilitating change](https://github.com/FAIR-Data-EG/consultation#facilitating-change)
  
 ## Concepts - why FAIR?
 In the concepts and context section of the report, we will introduce FAIR and other similar principles that promote effective data documentation and sharing to enable reuse. These will include the OECD principles, the Royal Society concept of ‘intelligent openness’ and the RDA Global Digital Object Cloud. This section will present clear definitions of what it means for data to be FAIR, and why this is important.  We will analyse the relationship between FAIR and the principle that data should be as open as possible and as closed as necessary.  It will be important to understand - in terms of concepts and definitions - what are the component attributes which enable data to be Findable, Accessible, Interoperable and Reusable.  Identifying such definitions will allow us to explore and assess proposals for degrees or scales of FAIRness, which will help researchers and institutions with implementation.  The role of data selection and case studies on the benefits of FAIR will also be considered.
