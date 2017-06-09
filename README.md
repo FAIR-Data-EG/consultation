@@ -18,7 +18,7 @@ Further information is available on the [FAIR data expert group webpage](http://
 
 # What to contribute?
 We invite contributions on each proposed section of the report as follows:
-* Concepts - why FAIR?
+* [Concepts - why FAIR?](https://github.com/FAIR-Data-EG/consultation/blob/master/README.md#concepts---why-fair)
 * Research data culture 
 * Making FAIR data real 
 * Measuring change
