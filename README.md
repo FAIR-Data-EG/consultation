@@ -73,6 +73,7 @@ Specific questions to guide external contributions are:
 * How long will it take to see measurable change across the broad research community or specific subsets thereof?
  
 ## Facilitating change
+
 In the facilitating change section of the report, we will consider what enablers are needed in terms of data policy, investment and skills. Recognising that many of the issues faced are social rather than technical, we will make recommendations for creating data stewardship career paths and recognising these roles. Cost models for investing in the FAIR data ecosystem at a national and international level, and recognising additional resources required in proposals via DMPs will also be covered.
 
 Specific questions to guide external contributions are:
@@ -88,7 +89,7 @@ Specific questions to guide external contributions are:
 
 This GitHub repository has been established to enable the community to contribute suggestions and resources in the open. Please see the [guidelines and examples](https://github.com/FAIR-Data-EG/consultation/blob/master/CONTRIBUTING.md) on how to contribute. We suggest that you review the existing tickets first and add to these if your suggestion is related to previously shared ideas and resources. When you have something different to share, proceed to [raise a new issue](https://github.com/FAIR-Data-EG/consultation/issues).
 
-We will also host two open community sessions to allow people to contribute ideas to the FAIR data expert group in real-time and in a moderated forum to allow discussion with the group. These will take place on Monday 3rd July from 14:00-17:00 CEST and Wednesday 26th July from 10:00-13:00 CEST. Further details on how to join will be circulated nearer the time.
+We will also host two open community sessions to allow people to contribute ideas to the FAIR data expert group in real-time and in a moderated forum to allow discussion with the group. These will take place on Monday 3rd July from 14:00-17:00 CEST and Wednesday 26th July from 10:00-13:00 CEST. Further details on how to join will be circulated nearer the time and detailed on [a dedicated subpage of this repository](community-sessions.md).
 
 Your contributions will be shared with the group members responsible for the associated topic. We may request further information or invite external experts to address the group at future telecons or face-to-face meetings.
 
