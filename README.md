@@ -2,8 +2,6 @@
 
 This repo is to facilitate a call for contributions to the report that the [Horizon 2020 Commission expert group on Turning FAIR data into reality (E03464)](http://ec.europa.eu/transparency/regexpert/index.cfm?do=groupDetail.groupDetail&groupID=3464) is compiling for the European Commission.
 
-We will add more information here as we move forward with this consultation.
-
 # The remit and objectives of the FAIR Data Expert Group
 
 The European Commission has established an Expert Group on FAIR data to support the Research and Innovation policy development on Open Science. The overall objective of the Expert Group is turning the [FAIR data principles](https://www.force11.org/group/fairgroup/fairprinciples) into an operational reality, to ensure that research data are Findable, Accessible, Interoperable and Reusable. The Group will address five specific objectives:
