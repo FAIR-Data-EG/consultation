@@ -95,5 +95,5 @@ Your contributions will be shared with the group members responsible for the ass
 
 The call for contributions is open between 12 June 2017 and  31 July 2017. Early input is encouraged to allow time for follow-up discussion.
 
-Members of the expert group will be present at the European Open Science Cloud summit on 12th June and the Estonian Presidency event in Tallinn on 12-13th October 2017. Further information on our progress will be shared then.
+Members of the expert group will be present at the [European Open Science Cloud summit](http://ec.europa.eu/research/index.cfm?pg=events&eventcode=44D86060-FBA1-1BD1-9355822B162BB0EE) on 12th June and the Estonian Presidency event in Tallinn on 12-13th October 2017. Further information on our progress will be shared then.
  
