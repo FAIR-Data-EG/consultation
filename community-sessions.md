@@ -12,3 +12,7 @@ Knowing that the terminology to describe aspects of the data landscape is so div
 # How to connect
 
 Please register [here](https://register.gotowebinar.com/register/3736763218412786433). You will then receive an email with a personalized link to join the Webinar. You can check [here](https://care.citrixonline.com/gotowebinar/get-ready) whether your system is configured to attend such meetings.
+
+# Notes
+
+Notes for the session will be taken collaboratively by way of [this Google doc](https://docs.google.com/document/d/1noZVpCZ859euqZTRu3t1viKU8XvIG7AReQOxL-fz0HE/edit#). It does not require having an account - just type away and add your name to the [Attendees section](https://docs.google.com/document/d/1noZVpCZ859euqZTRu3t1viKU8XvIG7AReQOxL-fz0HE/edit#heading=h.4kufuo6gxooj) as well as your comments and suggestions to the [Agenda section](https://docs.google.com/document/d/1noZVpCZ859euqZTRu3t1viKU8XvIG7AReQOxL-fz0HE/edit#heading=h.8rke37acdj8l).
